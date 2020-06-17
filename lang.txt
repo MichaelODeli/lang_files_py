@@ -1,0 +1,3 @@
+ru
+# set your language here: 'ru' or 'en'
+# установите свой язык здесь: 'ru' или 'en'
